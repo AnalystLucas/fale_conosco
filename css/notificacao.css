@@ -1,0 +1,29 @@
+.t-center{
+    text-align: center;
+}
+.bg-error{
+    background-color: #FF6347;
+}
+.bg-success{
+    background-color: #00FA9A;
+}
+.l-div{
+    position: fixed;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.d-hidden{
+    display: none;
+}
+
+.btn-display{
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+.btn-p{
+    float: right;
+    margin-top: -8.9%;
+    margin-left: 0%;
+}
